@@ -1,0 +1,19 @@
+body{
+    background-color: red;
+    text-align: center;
+    color: black; 
+}
+.heading{
+    background-color: cyan;
+    color: black;
+    font-size: 25px;
+    border-radius: 10px;
+    letter-spacing: 3px;
+    border: 2px dashed rgb(76, 16, 216);
+}
+#Webcam , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
